@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Theo's Recipes
+url: "http://theosrecipes.ca/"
 baseurl:
 google_analytics_key:
 newsletter_action: "//your-mailchimp-action-url.com"
@@ -12,9 +12,9 @@ disqus_shortname:
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
-  name:
+  name: Theodore Baschak
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: TheodoreBaschak # twitter username without the @ symbol
 social:
   name: Treat Template
   links:
