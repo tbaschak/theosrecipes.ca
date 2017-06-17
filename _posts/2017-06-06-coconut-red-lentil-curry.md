@@ -51,3 +51,10 @@ Having the coconut milk ready to pour in once the curry spices are cooked with t
 ![On Rice](/images/red_lentil_coconut_curry_on_rice.jpg)
 
 Delicious!
+
+Variations:
+
+*	Swap out red lentils for other types of lentils, or even split peas.
+*	Add more vegetable broth (or water), or less lentils to make more of a soup.
+*	Replace Thai peppers with other types of peppers for a milder dish (or remove some of all of the seeds using mostly just Thai pepper skin/flesh). Thai peppers with seeds make a dish thats hotter than a "5".
+
