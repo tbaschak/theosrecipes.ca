@@ -2,21 +2,22 @@
 # Site
 
 title: Theo's Recipes
-url: "http://theosrecipes.ca/"
-baseurl:
+url: "https://theosrecipes.ca/"
+baseurl: 
 google_analytics_key:
-newsletter_action: "//your-mailchimp-action-url.com"
+#newsletter_action: "//your-mailchimp-action-url.com"
+newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Recipes that I cook and enjoy.
+description: "Recipes that I cook and enjoy."
 author:
-  name: Theodore Baschak
+  name: "Theodore Baschak"
   email:
   twitter: TheodoreBaschak # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: "Treat Template"
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
