@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Recipes that I cook and enjoy.
 author:
   name: Theodore Baschak
   email:
@@ -74,3 +74,5 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+
+exclude: [vendor]
