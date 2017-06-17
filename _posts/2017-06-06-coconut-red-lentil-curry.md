@@ -4,7 +4,7 @@ title: Coconut Red Lentil Curry (Dahl)
 categories:
   - Indian
   - Curry
-featured_image: /images/red_lentil_coconut_curry_on_rice.jpg
+featured_image: "https://theosrecipes.ca/images/red_lentil_coconut_curry_on_rice.jpg"
 recipe:
   servings: 6 bowls
   prep: 20 minutes
@@ -38,7 +38,7 @@ recipe:
     8. add the lentils
     9. bring to a boil, then turn down and simmer until the lentils pop (red lentils don’t take long)
 ---
-A rich and spicy curry dish which often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers.
+A rich and spicy curry dish which often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers. This dish borders being a stew, the balance can also be tipped more towards soup by adding more broth or less lentils.
 
 ![Spices](/images/mortar_and_pestle_curry_spoons_garlic.jpg)
 
