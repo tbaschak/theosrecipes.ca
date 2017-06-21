@@ -38,7 +38,7 @@ recipe:
     8. add the lentils
     9. bring to a boil, then turn down and simmer until the lentils pop (red lentils don’t take long)
 ---
-A rich and spicy curry dish which often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers. This dish borders being a stew, the balance can also be tipped more towards soup by adding more broth or less lentils.
+A rich and spicy curry dish which is often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers. This dish borders being a stew, the balance can also be tipped more towards soup by adding more broth or less lentils.
 
 ![Spices](/images/mortar_and_pestle_curry_spoons_garlic.jpg)
 
