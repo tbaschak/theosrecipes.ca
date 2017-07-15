@@ -4,6 +4,7 @@ title: Fiery Hot Pepper Jelly
 categories:
   - Jelly
 featured_image: "https://theosrecipes.ca/images/fiery_pepper_jelly_jars_overview.jpg"
+image: "https://theosrecipes.ca/images/fiery_pepper_jelly_jars_overview.jpg"
 recipe:
   servings: 4 Jars
   prep: 20 minutes

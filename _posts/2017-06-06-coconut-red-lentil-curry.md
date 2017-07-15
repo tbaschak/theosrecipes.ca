@@ -1,10 +1,11 @@
 ---
 date: 2017-06-06
-title: Coconut Red Lentil Curry (Dahl)
+title: Coconut Red Lentil Curry (Masoor Dhal)
 categories:
   - Indian
   - Curry
 featured_image: "https://theosrecipes.ca/images/red_lentil_coconut_curry_on_rice.jpg"
+image: "https://theosrecipes.ca/images/red_lentil_coconut_curry_on_rice.jpg"
 recipe:
   servings: 6 bowls
   prep: 20 minutes

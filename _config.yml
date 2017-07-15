@@ -4,7 +4,7 @@
 title: Theo's Recipes
 url: "https://theosrecipes.ca"
 baseurl: 
-google_analytics_key:
+google_analytics_key: ''
 #newsletter_action: "//your-mailchimp-action-url.com"
 newsletter_action:
 disqus_shortname:
@@ -17,9 +17,13 @@ author:
   email:
   twitter: TheodoreBaschak # twitter username without the @ symbol
 social:
-  name: "Treat Template"
+  name: "Theo's Recipes"
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://twitter.com/TheodoreBaschak
+    - https://keybase.io/TheodoreBaschak
+
+twitter:
+  username: TheodoreBaschak
 
 # -----
 # Build
@@ -43,6 +47,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+    values:
+      image: "/siteicon.png"
   -
     scope:
       path: "index.html"
