@@ -14,38 +14,38 @@ recipe:
     * 1 onion, chopped
     * 2 TBSP peanut oil
     * 1/4 CUP peanut butter (smooth or chunky is fine)
-    * 1 TBSP Sichuan Peppercorn
+    * 1 TBSP Sichuan Peppercorns
+    * 1/2 TBSP Black Peppercorns
     * Salt and Pepper to taste
     * 3 dry chili peppers, crushed
-    * 3 TSBP Sriracha pepper sauce
+    * 3 TSBP Sriracha sauce
     * 1 TSBP Fish sauce
     * 4 Cloves garlic, finely chopped
     * 1/2 package flat rice noodles
     * 1/2 inch cube frozen ginger
     * 900 ml chicken broth
     * 750 ml water
-    * finely chopped peanuts, halful
+    * finely chopped peanuts, handful
     * green onion (garnish)
   directions_markdown: |-
-    1. dry fry the sichuan peppercorns for about 1 minute on medium heat, and finely grind them
+    1. dry fry the Sichuan peppercorns for about 1 minute on medium heat, and finely grind them
     2. caramelize onion in peanut oil in a dutch oven or large pot
-    3. add chicken stock and water, and all the spices, peppers, sriracha and fish sauce and the peanut butter and bring to a boil
-    4. add salt and pepper to taste (and additional sriracha to taste)
+    3. add chicken stock and water, and all the spices, peppers, Sriracha sauce, fish sauce and the peanut butter and bring to a boil
+    4. add salt and pepper to taste (and additional Sriracha sauce to taste)
     5. simmer for 15 minutes
     6. bring a separate pot of water to boil, and cook the flat rice noodles as per packet instructions -- don't forget to run them under cool water after
     7. strain the peanut soup and serve with the noodles, green onion and peanut to garnish
 ---
-A rich and spicy curry dish which is often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers. This dish borders being a stew, the balance can also be tipped more towards soup by adding more broth or less lentils.
+A spicy peanut noodle soup inspired by the one at Spicy Noodle House in Osborne Village in Winnipeg. Did a "taste it then make it" date with my wife, and made the soup a week later. The level of heat can be adjusted by using more Sriracha sauce.
 
-![Spices](/images/mortar_and_pestle_curry_spoons_garlic.jpg)
+![Sichuan Peppercorn](/images/toasting_sichuan_peppercorns.jpg)
 
-Grinding your own curry spices in a mortal and pestle is an excellent way to mix them and get great uniform flavor.
+Toasting the Sichuan peppercorns.
 
-![Coconut](/images/coconut_lentil_curry_after_coconut.jpg)
+![Ground peppercorns](/images/ground_sichuan_peppercorns.jpg)
 
-Having the coconut milk ready to pour in once the curry spices are cooked with the onion and oil helps ensure you don't burn your mix.
+Partially ground Sichuan and Black peppercorns.
 
-![On Rice](/images/red_lentil_coconut_curry_on_rice.jpg)
+![On Rice](/images/spicy_peanut_noodle_soup.jpg)
 
 Delicious!
-
