@@ -7,32 +7,33 @@ categories:
 featured_image: "https://theosrecipes.ca/images/spicy_peanut_noodle_soup.jpg"
 image: "https://theosrecipes.ca/images/spicy_peanut_noodle_soup.jpg"
 recipe:
-  servings: 4 bowls
-  prep: 20 minutes
+  servings: 6 bowls
+  prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
     * 1 onion, chopped
     * 2 TBSP peanut oil
-    * 1/4 CUP peanut butter (smooth or chunky is fine)
+    * 3/4 CUP peanut butter (smooth or chunky is fine)
     * 1 TBSP Sichuan Peppercorns
     * 1/2 TBSP Black Peppercorns
+    * 3 TSP Sugar
     * Salt and Pepper to taste
     * 3 dry chili peppers, crushed
-    * 3 TSBP Sriracha sauce
+    * 3+ TSBP Sriracha sauce
     * 1 TSBP Fish sauce
     * 4 Cloves garlic, finely chopped
     * 1/2 package flat rice noodles
-    * 1/2 inch cube frozen ginger
+    * 1/2 inch cube frozen ginger, grated
     * 900 ml chicken broth
     * 750 ml water
-    * finely chopped peanuts, handful
+    * 1 handful peanuts, finely chopped
     * green onion (garnish)
   directions_markdown: |-
     1. dry fry the Sichuan peppercorns for about 1 minute on medium heat, and finely grind them
     2. caramelize onion in peanut oil in a dutch oven or large pot
-    3. add chicken stock and water, and all the spices, peppers, Sriracha sauce, fish sauce and the peanut butter and bring to a boil
-    4. add salt and pepper to taste (and additional Sriracha sauce to taste)
-    5. simmer for 15 minutes
+    3. add chicken stock and water, half the chopped peanuts, all the spices, garlic, grated ginger, peppers, Sriracha sauce, fish sauce and the peanut butter and bring to a boil
+    4. simmer for 15 minutes
+    5. add sugar, salt and pepper to taste (and additional Sriracha sauce to taste)
     6. bring a separate pot of water to boil, and cook the flat rice noodles as per packet instructions -- don't forget to run them under cool water after
     7. strain the peanut soup and serve with the noodles, green onion and peanut to garnish
 ---
