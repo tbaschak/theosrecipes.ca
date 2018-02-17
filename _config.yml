@@ -70,6 +70,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - vendor
 
 # -----------
 # CloudCannon
@@ -85,4 +86,3 @@ social_icons:
   - YouTube
   - RSS
 
-exclude: [vendor]
